@@ -4,8 +4,15 @@
 
 Uma aplicação web moderna para cálculo personalizado de necessidades calóricas e distribuição de macronutrientes, baseada em evidências científicas e fórmulas validadas pela literatura médica.
 
-![Version](https://img.shields.io/badge/version-1.0.0-red)
+![Version](https://img.shields.io/badge/version-1.0.0-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-blueviolet)](https://github.com)
+
+---
+
+## 🚀 Demo Online
+
+🔗 **[Acessar NutriCalc Pro](https://[seu-usuario].github.io/port/)**
 
 ---
 
@@ -323,7 +330,23 @@ MIT License
 
 ---
 
-## 👥 Contribuindo
+## � Deploy
+
+O projeto está configurado para deploy automático no GitHub Pages. Consulte [DEPLOY.md](DEPLOY.md) para instruções detalhadas.
+
+**Quick Start:**
+
+```bash
+# Build e deploy manual
+npm run deploy
+
+# Ou: push para main para deploy automático via GitHub Actions
+git push origin main
+```
+
+---
+
+## �👥 Contribuindo
 
 Contribuições são bem-vindas! Por favor:
 

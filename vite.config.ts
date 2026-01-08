@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: process.env.GITHUB_PAGES === 'true' ? '/port/' : '/',
   server: {
     proxy: {
       '/api': {
@@ -12,6 +13,6 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'dist/client',
+    outDir: 'dist',
   },
 })
