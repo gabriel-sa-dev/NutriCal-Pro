@@ -1,4 +1,4 @@
-# 🍎 NutriCalc Pro
+# 🍎 NutriCal Pro
 
 **Calculadora Inteligente de Macronutrientes e Calorias**
 
@@ -11,7 +11,7 @@ Uma aplicação web moderna para cálculo personalizado de necessidades calóric
 
 ## 🎯 Sobre o Projeto
 
-O **NutriCalc Pro** é uma ferramenta que utiliza as fórmulas mais precisas disponíveis na literatura científica para calcular:
+O **NutriCal Pro** é uma ferramenta que utiliza as fórmulas mais precisas disponíveis na literatura científica para calcular:
 
 - **Taxa Metabólica Basal (TMB)** - Quantidade de calorias que seu corpo queima em repouso
 - **TDEE (Total Daily Energy Expenditure)** - Gasto calórico total diário considerando atividade física
