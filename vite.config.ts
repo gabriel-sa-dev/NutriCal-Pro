@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.GITHUB_PAGES === 'true' ? '/port/' : '/',
+  base: process.env.GITHUB_PAGES === 'true' ? '/NutriCal-Pro/' : '/',
   server: {
     proxy: {
       '/api': {
